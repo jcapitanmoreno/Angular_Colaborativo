@@ -2,6 +2,7 @@
   "name": "league-of-legends-details-project",
   "version": "0.0.0",
   "scripts": {
+    "firebase:deploy": "ng b --c=production && firebase deploy --only hosting",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",

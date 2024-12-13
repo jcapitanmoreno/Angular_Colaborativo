@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/league-of-legends-details-project/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
